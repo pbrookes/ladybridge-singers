@@ -11,13 +11,13 @@ defaults:
       type: "posts"
     values:
       author: "Song-Zi Vong"
-      #image: "apple-touch-icon.png"
+      image: "apple-touch-icon.png"
   - scope:
       path: ""      
       type: "pages"
     values:
       author: "Song-Zi Vong"
-      #image: "apple-touch-icon.png"
+      image: "apple-touch-icon.png"
 
 plugins:
   - jekyll-feed
