@@ -5,6 +5,9 @@ author:
   name: Song-Zi Vong
   url: https://twitter.com/zivong91
 
+twitter:
+  username: zivong91
+
 defaults:
   - scope:
       path: ""      
