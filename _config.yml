@@ -35,3 +35,6 @@ paginate: 10
 
 disqus: zivong
 google_analytics: G-DBXE19KQCJ
+
+tags_path: /tags/
+categories_path: /categories/
