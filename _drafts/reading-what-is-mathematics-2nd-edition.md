@@ -117,3 +117,68 @@ $$
 $$
 
 ## Supplement to Chapter I. The Theory of Numbers
+
+### &sect;1. The Prime Numbers
+
+#### 1. Fundamental Facts
+
+Theorem: There are infinitely many primes.
+
+Euclid's indirect proof remains a model of mathematical reasoning. Assume there are finite many primes, say \\(n\\), then we can number them: \\(p_1, p_2, \cdots, p_n\\). Now we form a number
+
+$$
+A = p_1p_2\cdots p_n+1
+$$
+
+\\(A\\) is larger than any \\(p\\), and it divided by any \\(p\\) always leaves a remainder \\(1\\), so \\(A\\) is also a prime. This is contradictory to our assumption. \\(\blacksquare\\)
+
+In fact, the proof process shows us a method to construct an infinite array of primes:
+
+$$
+p_n = p_1p_2\cdots p_{n-1} + 1
+$$
+
+$$
+p_1 = 2, p_2 = 3, p_3 = 7, p_4 = 43, p_5 = 1807, p_6 = 3263443, p_7 = 10650056950807
+$$
+
+Fundamental theorem of arithmetic: Every integer greater than 1 can be factored into a product of primes in only one way (ignoring the order of primes).
+
+Proof by contradiction: Suppose there are integers that can be factored into two different products of primes, then there exist a smallest one \\(m\\),
+
+$$
+m = p_1p_2\cdots p_r = q_1q_2\cdots q_s
+$$
+
+where \\(p\\)'s and \\(q\\)'s are primes, and
+
+$$
+p_1 \leq p_2 \leq \cdots \leq p_r, q_1 \leq q_2 \leq \cdots \leq q_s
+$$
+
+For convenient, suppose \\(p_1 < q_1\\). Now we form an integer
+
+$$
+\begin{aligned}
+m' &= m - p_1q_2q_3\cdots q_s \\
+&= (q_1 - p_1)q_2q_3\cdots q_s \\
+\end{aligned}
+$$
+
+So \\(0 < m' < m\\), that means \\(m'\\) can be factored into a product of primes in only one way. According to
+
+$$
+m' = p_1(p_2p_3\cdots p_r - q_2q_3\cdots q_s)
+$$
+
+we know that \\(p_1\\) is a factor of \\(m'\\). So the decomposition of \\(m'\\) must contains \\(p_1\\). Since \\(q_2, q_3, \cdots, q_s\\) are all greater than \\(p_1\\), \\(p_1\\) won't appear in \\(q_2q_3\cdots q_s\\). So that \\(p_1\\) is a factor of \\(q_1 - p_1\\), i.e. there is an integer \\(t\\),
+
+$$
+q_1 - p_1 = p_1 t \Rightarrow q_1 = p_1(t+1)
+$$
+
+This is contradictory to the fact that \\(q_1\\) is a prime. \\(\blacksquare\\)
+
+An inference: If a prime \\(p\\) is a factor of the product \\(ab\\), then \\(p\\) must be a factor of either \\(a\\) or \\(b\\).
+
+#### 2. The Distribution of the Primes
