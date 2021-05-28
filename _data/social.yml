@@ -2,17 +2,17 @@
   url: /feed.xml
   icon: fas fa-rss
 - title: Email
-  url: mailto:zivong@protonmail.com
+  url: 
   icon: fas fa-envelope
 - title: GitHub
-  url: https://github.com/zivong
+  url: 
   icon: fab fa-github
 - title: Stack Overflow
-  url: https://stackoverflow.com/users/15253551/song-zi-vong
+  url: 
   icon: fab fa-stack-overflow
 - title: Twitter
-  url: https://twitter.com/zivong91
+  url: 
   icon: fab fa-twitter
 - title: Instagram
-  url: https://www.instagram.com/zivong91/
+  url: 
   icon: fab fa-instagram
