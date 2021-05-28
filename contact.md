@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Contact Us
+permalink: /contact/
 ---
 **Freda Brookes**\\
 Choir secretary\\
