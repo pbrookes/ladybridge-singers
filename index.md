@@ -9,3 +9,4 @@ Now a well-known group of some 40 mixed voices, we have a wide-ranging music rep
 We provide varied and enjoyable entertainment for both lovers of choral music, and those who prefer more popular items. Our fees are moderate and enable good fundraising opportunities for many organisations. In addition to concerts, we can provide after-dinner entertainment, attend weddings and will consider any other type of engagement.
 
 We regularly welcome new singers who wish to join us.
+
