@@ -17,5 +17,5 @@ title:  Who's Who
 | David Walker | Archive & copyright officer |
 | Sandra Scruton | Committee member |
 | David Walker | Honorary founder member |
-| Myra Greenhalgh | Honorary Member |
+| Myra Greenhalgh | Honorary member |
 | Gordon Pincott | Deputy rehearsal conductor |
