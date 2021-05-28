@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Who's Who
-permalink: /whos-who/
 ---
 
 | Name | Role |
