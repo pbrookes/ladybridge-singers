@@ -2,7 +2,7 @@ title: Ladybridge Singers
 tagline: 
 
 author:
-  name: Song-Zi Vong
+  name: Ladybridge Singers
   url: https://twitter.com/zivong91
 
 twitter:
@@ -13,7 +13,7 @@ defaults:
       path: ""      
       type: "posts"
     values:
-      author: "Song-Zi Vong"
+      author: 
       image: "apple-touch-icon.png"
   - scope:
       path: ""      
