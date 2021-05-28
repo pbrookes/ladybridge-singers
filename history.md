@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  History
+permalink: /history/
 ---
 Ladybridge Singers have been very active in recent years, giving up to 15 performances per season.  We have shared  concerts with other prominent choirs and music groups in the area, and with Flint Male Voice Choir.
 
