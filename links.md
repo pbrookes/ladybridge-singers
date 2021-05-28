@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Links
+permalink: /links/
 ---
 [British Choirs on the Net](http://www.choirs.org.uk)
 
