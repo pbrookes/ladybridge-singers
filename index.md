@@ -2,7 +2,7 @@
 layout: post
 title:  Welcome
 ---
-Ladybridge Singers have been entertaining in the Bolton and south-east Lancashire area for over 40 years. In 1972, at a new housing estate in Bolton, an enthusiastic group of neighbours met in each other's' homes to sing choral music, and we developed from there.
+Ladybridge Singers have been entertaining in the Bolton and south-east Lancashire area for over 40 years. In 1972, at a new housing estate in Bolton, an enthusiastic group of neighbours met in each other's homes to sing choral music, and we developed from there.
 
 Now a well-known group of some 40 mixed voices, we have a wide-ranging music repertoire. Led by our experienced and talented musical director, Dr Robert Aston, we perform everything from sacred and classical music, popular songs, songs from the shows, and music hall.
 
