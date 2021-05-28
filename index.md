@@ -1,7 +1,6 @@
 ---
 layout: home
 title:  Welcome
-permalink:/index/
 ---
 Ladybridge Singers have been entertaining in the Bolton and south-east Lancashire area for over 40 years. In 1972, at a new housing estate in Bolton, an enthusiastic group of neighbours met in each other's' homes to sing choral music, and we developed from there.
 
