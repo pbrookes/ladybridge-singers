@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Membership
+permalink: /membership/
 ---
 The choir rehearses at St Helens Road Methodist Church, Bolton, each Monday evening between 7.15 and 9.30 pm. Our rehearsal season starts in early September and finishes at the end of June the following year. Our concert season begins in October each year and also finishes at the end of June.
 
