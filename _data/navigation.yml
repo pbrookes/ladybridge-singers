@@ -1,8 +1,12 @@
 - title: Home
   url: /
-- title: About
-  url: /about/
-- title: Archive
-  url: /archive/
-- title: Following
-  url: /following/
+- title: Membership
+  url: /membership/
+- title: Contact Us
+  url: /contact/
+- title: Links
+  url: /links/
+- title: History
+  url: /history/
+- title: Who's Who
+  url: /whos-who/
