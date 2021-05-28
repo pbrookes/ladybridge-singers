@@ -3,8 +3,8 @@ tagline:
 
 author:
   name: Ladybridge Singers
-  url: https://twitter.com/zivong91
-
+  url: 
+  
 twitter:
   username: zivong91
 
@@ -33,8 +33,8 @@ remote_theme: zivong/jekyll-theme-hydure
 
 paginate: 10
 
-disqus: zivong
-google_analytics: G-DBXE19KQCJ
+disqus: 
+google_analytics: 
 
 tags_path: /tags/
 categories_path: /categories/
