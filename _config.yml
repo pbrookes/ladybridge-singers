@@ -6,7 +6,7 @@ author:
   url: 
   
 twitter:
-  username: zivong91
+  username: 
 
 defaults:
   - scope:
@@ -19,7 +19,7 @@ defaults:
       path: ""      
       type: "pages"
     values:
-      author: "Song-Zi Vong"
+      author: 
       image: "apple-touch-icon.png"
 
 plugins:
