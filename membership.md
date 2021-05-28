@@ -7,4 +7,4 @@ The choir rehearses at St Helens Road Methodist Church, Bolton, each Monday even
 
 We normally welcome everyone who wishes to join us. However there may occasionally be restrictions depending on the current balance between sopranos and contraltos, and tenors and bass. Though helpful, you don't need to read music, and all new members undertake a very short (and private) audition after a trial period of four weeks.  Membership fees are currently £45 per season.
 
-Membership enquiries should be directed to the choir secretary Freda Brookes on 01204 841431, or [mailto:freda.brookes@yahoo.co.uk](freda.brookes@yahoo.co.uk)
+Membership enquiries should be directed to the choir secretary Freda Brookes on 01204 841431, or [freda.brookes@yahoo.co.uk](mailto:freda.brookes@yahoo.co.uk)
