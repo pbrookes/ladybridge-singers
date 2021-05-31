@@ -2,6 +2,7 @@
 layout: post
 title:  Contact Us
 permalink: /contact/
+cover: https://github.com/pbrookes/jekyll-theme-hydure/blob/master/cover.jpg?raw=true
 ---
 **Freda Brookes**\\
 Choir secretary\\
