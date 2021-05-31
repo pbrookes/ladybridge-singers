@@ -2,6 +2,7 @@
 layout: post
 title:  Who's Who
 permalink: /whos-who/
+cover: https://github.com/pbrookes/jekyll-theme-hydure/blob/master/cover.jpg?raw=true
 ---
 
 | Name | Role |
