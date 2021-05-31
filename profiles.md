@@ -2,6 +2,7 @@
 layout: post
 title:  Profiles
 permalink: /profiles/
+cover: https://github.com/pbrookes/jekyll-theme-hydure/blob/master/cover.jpg?raw=true
 ---
 ## Dr Robert Aston – musical director
 
