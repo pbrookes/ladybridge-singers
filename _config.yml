@@ -29,6 +29,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
+remote_theme: pbrookes/jekyll-theme-hydure
 
 paginate: 10
 
