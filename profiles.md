@@ -10,4 +10,4 @@ Robert was born and brought up in Bolton, and was an independent medical consult
 
 ## Christine Deacon – accompanist
 
-Christine is a retired nurse practitioner and has accompanied the Ladybridge Singers for several years. She is a keen amateur pianist and has accompanied soloists at local and charity events. Christine is also the accompanist for Bolton U3A Choir. As well as music, Christine enjoys tennis, country walking and is secretary for the Friends of Bolton Symphony Orchestra.
+Christine is a retired nurse practitioner and has accompanied the Ladybridge Singers for several years. She is a keen amateur pianist and has accompanied soloists at local and charity events. Christine is also the accompanist for Bolton U3A Choir. As well as music, Christine enjoys tennis, country walking and is secretary of the Friends of Bolton Symphony Orchestra.
