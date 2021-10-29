@@ -7,13 +7,12 @@ cover: https://github.com/pbrookes/jekyll-theme-hydure/blob/master/cover.jpg?raw
 
 | Name | Role |
 |---------|
-| Dr Robert Aston | Musical director |
+| Alan Beedie | Musical director |
 | Christine Deacon | Accompanist |
-| Ken Hall | Chair |
-| Margaret Ainsworth | Vice-chair |
+| Margaret Ainsworth| Chair |
+| Pauline Ashton | Vice-chair |
 | Freda Brookes | Choir secretary |
-| Mil Rushton | Treasurer |
-| Jacqui Cook | Librarian |
+| Jacqui Cook | Treasurer/Librarian
 | Harry Ainsworth | Reservations & publicity |
 | Janet Constantine | Almoner |
 | David Walker | Archive & copyright officer |
