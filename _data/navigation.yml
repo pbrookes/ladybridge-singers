@@ -1,5 +1,7 @@
 - title: Home
   url: /
+  - title: Events
+  url: /events/
 - title: Membership
   url: /membership/
 - title: Contact Us
