@@ -9,3 +9,5 @@ cover: https://github.com/pbrookes/jekyll-theme-hydure/blob/master/cover.jpg?raw
 [Gerontius](https://www.gerontius.net)
 
 [National Association of Choirs](https://www.nationalassociationofchoirs.org.uk)
+
+![Banana](/images/banana.jpg)
