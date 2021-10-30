@@ -12,7 +12,7 @@ cover: https://github.com/pbrookes/jekyll-theme-hydure/blob/master/cover.jpg?raw
 | Margaret Ainsworth| Chair |
 | Pauline Ashton | Vice-chair |
 | Freda Brookes | Choir secretary |
-| Jacqui Cook | Treasurer/Librarian
+| Jacqui Cook | Treasurer & librarian
 | Harry Ainsworth | Reservations & publicity |
 | Janet Constantine | Almoner |
 | David Walker | Archive & copyright officer |
