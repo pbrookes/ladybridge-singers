@@ -1,18 +1,18 @@
 - title: Feed
   url: /feed.xml
   icon: fas fa-rss
-- title: Email
-  url: 
-  icon: fas fa-envelope
-- title: GitHub
-  url: 
-  icon: fab fa-github
-- title: Stack Overflow
-  url: 
-  icon: fab fa-stack-overflow
-- title: Twitter
-  url: 
-  icon: fab fa-twitter
-- title: Instagram
-  url: 
-  icon: fab fa-instagram
+#- title: Email
+#  url: 
+#  icon: fas fa-envelope
+#- title: GitHub
+#  url: 
+#  icon: fab fa-github
+#- title: Stack Overflow
+#  url: 
+#  icon: fab fa-stack-overflow
+#- title: Twitter
+#  url: 
+#  icon: fab fa-twitter
+#- title: Instagram
+#  url: 
+#  icon: fab fa-instagram
