@@ -13,3 +13,5 @@ Over Hulton Bolton  7pm.
 Carol Singing\\
 Bolton Market Place 12 noon.
 
+## 19th Feb 2022
+St Johns RC Church Wigan 7pm.
