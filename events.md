@@ -15,3 +15,7 @@ Bolton Market Place, 12 noon.
 
 ## 19 Feb 2022
 St Johns RC Church, Wigan, 7pm.
+
+## 7th May 2022
+St Helens Road Methodist Church
+Bolton 7.00pm
