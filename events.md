@@ -10,7 +10,7 @@ St Vincents RC Church\\
 Over Hulton Bolton, 7pm.
                  
 ## Sat 11th Dec 2021
-Carol Singing\\
+Carol Singing\\                  Cancelled due to Covid restrictions
 Bolton Market Place, 12 noon.
 
 ## Sat 19th Feb 2022
