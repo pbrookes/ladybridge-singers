@@ -22,3 +22,7 @@ Bolton 7.00pm
 
 ## Tues 29th March 2022
 Age UK Farnworth 2.00pm
+
+## Wed 12th Oct 2022
+   Chorley Masonic Hall
+   Cunliffe St Chorley PR7 2BE 2 00pm
