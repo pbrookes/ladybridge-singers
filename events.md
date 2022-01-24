@@ -26,6 +26,9 @@ cover: https://github.com/pbrookes/jekyll-theme-hydure/blob/master/cover.jpg?raw
    St Helens Road Methodist Church
    Bolton 7pm
 
+## Mon 27th June 2022
+   Bolton Masonic Fellowship  2pm
+
 ## Wed 12th Oct 2022
    Chorley Masonic Hall
    Cunliffe St Chorley PR7 2BE 2pm
