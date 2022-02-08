@@ -15,6 +15,10 @@ cover: https://github.com/pbrookes/jekyll-theme-hydure/blob/master/cover.jpg?raw
 
 ## Sat 19th Feb 2022
    St Johns RC Church, Wigan, 7pm.
+   
+## Sat 5th Mar 2022
+   Bolton Hospice 35th Anniversary
+   Bolton Whites Hotel Middlebrook 7p
 
 ## Sat 19th March  2022
    Barlow Institute Edgworth  2pm
