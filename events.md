@@ -29,7 +29,12 @@ cover: https://github.com/pbrookes/jekyll-theme-hydure/blob/master/cover.jpg?raw
 ## Sat 7th May 2022
    St Helens Road Methodist Church
    Bolton 7pm
-
+   
+## Sat 25th June 2022
+   Gala Concert in aid of Bolton Hospice
+   Holy Trinity Parish Church Horwich Bolton 7.30pm
+   Featuring Songs from Les Miserables, Hits from Abba and many more
+   
 ## Mon 27th June 2022
    Bolton Masonic Fellowship  2pm
 
