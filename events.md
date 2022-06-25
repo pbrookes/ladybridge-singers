@@ -38,11 +38,11 @@ cover: https://github.com/pbrookes/jekyll-theme-hydure/blob/master/cover.jpg?raw
 ## Mon 27th June 2022
    Bolton Masonic Fellowship  2pm
 
-# Sat 1st Oct 2022
+## Sat 1st Oct 2022
    A Night of Military Music at the Victoria Hall Bolton TBA
    Ladybridge Singers with The Fusiliers Military Band
    
-# Wed 12th Oct 2022
+## Wed 12th Oct 2022
    Chorley Masonic Hall
    Cunliffe St Chorley PR7 2BE 2pm
 
