@@ -6,7 +6,7 @@ cover: https://github.com/pbrookes/jekyll-theme-hydure/blob/master/cover.jpg?raw
 ---
                      
 ## Fri 26th Nov 2021    
-   St Vincents RC Church\\
+   St Vincents RC Church//
    Over Hulton Bolton, 7pm.
                  
 ## Sat 11th Dec 2021
