@@ -9,8 +9,8 @@ cover: https://github.com/pbrookes/jekyll-theme-hydure/blob/master/cover.jpg?raw
 |---------|
 | Alan Beedie | Musical director |
 | Christine Deacon | Accompanist |
-| Margaret Ainsworth| Chair |
-| Pauline Ashton | Vice-chair |
+| Pauline Ashton| Chair |
+| Anne Cash | Vice-chair |
 | Freda Brookes | Choir secretary |
 | Jacqui Cook | Treasurer & librarian
 | Harry Ainsworth | Reservations & publicity |
