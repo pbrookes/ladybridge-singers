@@ -48,8 +48,9 @@ cover: https://github.com/pbrookes/jekyll-theme-hydure/blob/master/cover.jpg?raw
 
 
                               
-                             The Gala Concert
-                              
+                                                        The Gala Concert
+                                                      
+                             
   The 25th June was this years Gala Concert at Horwich Parish Church.  It was supported again by the Mayors and Mayoress of Boton and Horwich, the MP Chris Green, and   a representative from Bolton Hospice.
   This concert has proved very popular over the last few years, the choir sang at it's best to a very large and appreciative audience.  We sang a mixture of songs    
   including some new pieces to us from Les Miserable, and a medley of Abba songs, which went down very well.
