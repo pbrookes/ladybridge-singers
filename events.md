@@ -49,7 +49,7 @@ cover: https://github.com/pbrookes/jekyll-theme-hydure/blob/master/cover.jpg?raw
    AGE UK Cross St Farnworth BL4 7AG 2pm
 
 ## Tues 13th Dec 2022
- Halliwell Brefriending Group
+ Halliwell Befriending Group
  St Lukes Church Chorley Old Road Bolton BL1 4JE 1.45pm
  
  
