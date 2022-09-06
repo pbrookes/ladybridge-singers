@@ -39,7 +39,7 @@ cover: https://github.com/pbrookes/jekyll-theme-hydure/blob/master/cover.jpg?raw
    Bolton Masonic Fellowship  2pm
 
 ## Sat 1st Oct 2022
-   A Night of Military Music at the Victoria Hall Bolton TBA\\
+   A Night of Military Music at the Victoria Hall Bolton 7pm
    Ladybridge Singers with The Fusiliers Military Band
    
 ## Wed 12th Oct 2022
