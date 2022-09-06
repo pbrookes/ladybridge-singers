@@ -43,7 +43,7 @@ cover: https://github.com/pbrookes/jekyll-theme-hydure/blob/master/cover.jpg?raw
    Ladybridge Singers with The Fusiliers Military Band
    
 ## Wed 12th Oct 2022
-   Chorley Masonic Hall\\
+   Chorley Masonic Hall
    Cunliffe St Chorley PR7 2BE 2pm
 ## Tues 29th Nov 2022
    AGE UK Cross St Farnworth BL4 7AG 2pm
