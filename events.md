@@ -45,7 +45,16 @@ cover: https://github.com/pbrookes/jekyll-theme-hydure/blob/master/cover.jpg?raw
 ## Wed 12th Oct 2022
    Chorley Masonic Hall\\
    Cunliffe St Chorley PR7 2BE 2pm
-                              
+## Tues 29th Nov 2022
+   AGE UK Cross St Farnworth BL4 7AG 2pm
+
+## Tues 13th Dec 2022
+ Halliwell Brefriending Group
+ St Lukes Church Chorley Old Road Bolton BL1 4JE 1.45pm
+ 
+ 
+ 
+ 
 <h2 style="text-align: center;">The Gala Concert</h2>
 The 25th June was this years Gala Concert at Horwich Parish Church. It was supported again by the Mayors and Mayoress of Boton and Horwich, the MP Chris Green, and     a representative from Bolton Hospice.
   
