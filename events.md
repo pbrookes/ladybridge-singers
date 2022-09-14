@@ -45,9 +45,18 @@ cover: https://github.com/pbrookes/jekyll-theme-hydure/blob/master/cover.jpg?raw
 ## Wed 12th Oct 2022
    Chorley Masonic Hall
    Cunliffe St Chorley PR7 2BE 2pm
+   
+## Mon 31st Oct 2022
+    Horwich Evangelical Church
+    Wright St Horwich  1.00pm
+ 
+## Mon 14th Nov 2022
+   Alexandra Briant Court
+   Parkfield Ave off George St Farnworth BL4 9PZ 1.00pm
+   
 ## Tues 29th Nov 2022
    AGE UK Cross St Farnworth BL4 7AG 2pm
-
+ 
 ## Tues 13th Dec 2022
  Halliwell Befriending Group
  St Lukes Church Chorley Old Road Bolton BL1 4JE 1.45pm
