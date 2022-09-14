@@ -49,7 +49,7 @@ cover: https://github.com/pbrookes/jekyll-theme-hydure/blob/master/cover.jpg?raw
 ## Mon 31st Oct 2022
     Horwich Evangelical Church
     Wright St Horwich  1.00pm
- 
+    
 ## Mon 14th Nov 2022
    Alexandra Briant Court
    Parkfield Ave off George St Farnworth BL4 9PZ 1.00pm
