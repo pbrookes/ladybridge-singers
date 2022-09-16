@@ -60,8 +60,10 @@ cover: https://github.com/pbrookes/jekyll-theme-hydure/blob/master/cover.jpg?raw
 ## Tues 13th Dec 2022
  Halliwell Befriending Group
  St Lukes Church Chorley Old Road Bolton BL1 4JE 1.45pm
- ##  Thurs 15th Dec 2022
+## Thurs 15th Dec 2022
  Christmas Concert St Helens Road Methodist Church 7.30pm
+ 
+ 
  
 The 25th June was this years Gala Concert at Horwich Parish Church. It was supported again by the Mayors and Mayoress of Boton and Horwich, the MP Chris Green, and     a representative from Bolton Hospice.
   
