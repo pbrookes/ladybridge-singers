@@ -63,7 +63,9 @@ cover: https://github.com/pbrookes/jekyll-theme-hydure/blob/master/cover.jpg?raw
 ## Thurs 15th Dec 2022
  Christmas Concert St Helens Road Methodist Church 7.30pm
  
- 
+
+
+
  
 The 25th June was this years Gala Concert at Horwich Parish Church. It was supported again by the Mayors and Mayoress of Boton and Horwich, the MP Chris Green, and     a representative from Bolton Hospice.
   
