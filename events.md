@@ -63,8 +63,17 @@ St Lukes Church Chorley Old Road Bolton BL1 4JE 1.45pm
 
 ## Thurs 15th Dec 2022
 Christmas Concert St Helens Road Methodist Church 7.30pm
- 
-<h2 style="text-align: center;">The Gala Concert</h2>
+
+## Friday 17th March 2023
+St Vincent's Over Hulton 7.30pm
+
+## Sat 13th May 2023
+St Helens Road Methodist Church TBA
+
+## Sat 24th June 2023
+Gala Concert Horwich Parish Church 7.30pm
+
+<h2 style="text-align: center;">Th#e Gala Concert</h2>
 The 25th June was this year's Gala Concert at Horwich Parish Church. It was supported again by the Mayor and Mayoress of Bolton and Horwich, the MP Chris Green, and a representative from Bolton Hospice.
   
 This concert has proved very popular over the last few years, the choir sang at its best to a very large and appreciative audience. We sang a mixture of songs including some new pieces to us from Les Misérables, and a medley of Abba songs, which went down very well.
