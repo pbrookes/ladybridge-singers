@@ -67,6 +67,9 @@ Christmas Concert St Helens Road Methodist Church 7.30pm
 ## Friday 17th March 2023
 St Vincent's Over Hulton 7.30pm
 
+## Mon 27th Mar 2023
+Horwich Evangelical Church Wright st Horwich 1.00pm
+
 ## Sat 13th May 2023
 St Helens Road Methodist Church TBA
 
