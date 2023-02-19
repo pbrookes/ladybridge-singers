@@ -71,7 +71,7 @@ Washacre Lane Westhoughton BL5 2NG 2.30pm
 ## Mon 27th Mar 2023
 Horwich Evangelical Church Wright st Horwich 1.00pm
 
-# Sat 1st April 2023
+## Sat 1st April 2023
 The Barlow, Bolton Road Edgworth 2.00pm
 
 ## Sat 13th May 2023
@@ -80,7 +80,7 @@ St Helens Road Methodist Church TBA
 ## Sat 24th June 2023
 Gala Concert Horwich Parish Church 7.30pm
 
-<h2 style="text-align: center;">Th#e Gala Concert</h2>
+<h2 style="text-align: center;">The Gala Concert</h2>
 The 25th June was this year's Gala Concert at Horwich Parish Church. It was supported again by the Mayor and Mayoress of Bolton and Horwich, the MP Chris Green, and a representative from Bolton Hospice.
   
 This concert has proved very popular over the last few years, the choir sang at its best to a very large and appreciative audience. We sang a mixture of songs including some new pieces to us from Les Misérables, and a medley of Abba songs, which went down very well.
