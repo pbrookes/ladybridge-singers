@@ -71,6 +71,9 @@ Washacre Lane Westhoughton BL5 2NG 2.30pm
 ## Mon 27th Mar 2023
 Horwich Evangelical Church Wright st Horwich 1.00pm
 
+# Sat 1st April 2023
+The Barlow, Bolton Road Edgworth 2.00pm
+
 ## Sat 13th May 2023
 St Helens Road Methodist Church TBA
 
