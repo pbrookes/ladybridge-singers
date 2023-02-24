@@ -30,11 +30,6 @@ Age UK Farnworth Bolton, 2pm
 St Helens Road Methodist Church\\
 Bolton, 7pm
    
-## Sat 25th June 2022
-Gala Concert in aid of Bolton Hospice\\
-Holy Trinity Parish Church Horwich Bolton, 7.30pm\\
-Featuring Songs from Les Miserables, Hits from Abba and many more
-   
 ## Mon 27th June 2022
 Bolton Masonic Fellowship, 2pm
 
@@ -79,6 +74,10 @@ St Helens Road Methodist Church TBA
 
 ## Sat 24th June 2023
 Gala Concert Horwich Parish Church 7.30pm
+
+## Fri 15th Sept 2023
+St Philips Church Crosby Street Atherton M46 9DF 7.30pm
+
 
 <h2 style="text-align: center;">The Gala Concert</h2>
 The 25th June was this year's Gala Concert at Horwich Parish Church. It was supported again by the Mayor and Mayoress of Bolton and Horwich, the MP Chris Green, and a representative from Bolton Hospice.
