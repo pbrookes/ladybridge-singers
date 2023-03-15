@@ -14,7 +14,7 @@ Washacre Lane Westhoughton BL5 2NG 2.30pm
 Horwich Evangelical Church Wright st Horwich 1.00pm
 
 ## Sat 1st April 2023
-The Barlow, Bolton Road Edgworth 2.00pm
+The Barlow, Bolton Road Edgworth 2.00pm  Cancelled
 
 ## Fri 21st April 2023
 Thicketford Day Centre, Thicketford Road Bolton BL2 2LW 1.30pm
