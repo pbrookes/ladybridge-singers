@@ -43,12 +43,12 @@ Thicketford Day Centre Thicketford Road Bolton BL2 2LW  1.30pm
 St Vincent's RC Church Rutherford Drive Over Hulton  7.30pm 
 
 <h2 style="text-align: center;">The Gala Concert</h2>
-The 25th June was this year's Gala Concert at Horwich Parish Church. It was supported again by the Mayor and Mayoress of Bolton and Horwich, the MP Chris Green, and a representative from Bolton Hospice.
+The 24th June was this year's Gala Concert at Horwich Parish Church. It was supported again by the Mayor and Mayoress of Horwich, and the Mayor of Bolton, and two representatives from Hearing Dogs for the Deaf. 
   
-This concert has proved very popular over the last few years, the choir sang at its best to a very large and appreciative audience. We sang a mixture of songs including some new pieces to us from Les Misérables, and a medley of Abba songs, which went down very well.
+This concert has proved very popular over the last few years, the choir sang at its best to a very large and appreciative audience. We sang a mixture of songs including some choral pieces, and songs from the shows, and also a new piece by Joanna Forbes L'Estrange which was written for the Coronation.
 
-Many thanks to the soloists Kathryn, Bernadette, Harry and Alan for their contributions, not forgetting the extremely talented violinist James Warburton, who has played with us many times.
+Many thanks to the soloists  Bernadette, for a clarinet solo, Maurice Rushby, a very fine bass singer, two very taleted young pianists, and a Euphonium solo from James Bainton
 
-The children from Horwich Parish CofE school were a delight singing a variety of songs including 'T Rex Rock' which set our feet tapping.
+The children from Horwich Parish CofE school entertained us once again singing and playing their violins and guitars
 
-The event raised the magnificent sum of £1,885, which was increased from choir funds to £2,000, and was donated to the Bolton Hospice.
+The event raised the magnificent sum of £2500, which was donated to The Hearing Dogs for the Deaf.
