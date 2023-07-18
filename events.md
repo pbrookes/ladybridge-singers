@@ -51,4 +51,4 @@ Many thanks to the soloists  Bernadette, for a clarinet solo, Maurice Rushby, a 
 
 The children from Horwich Parish CofE school entertained us once again singing and playing their violins and guitars
 
-The event raised the magnificent sum of £2500, which was donated to The Hearing Dogs for the Deaf.
+The event raised the magnificent sum of £2383, which was donated to The Hearing Dogs for the Deaf.
