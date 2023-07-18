@@ -9,8 +9,8 @@ cover: https://github.com/pbrookes/jekyll-theme-hydure/blob/master/cover.jpg?raw
 |---------|
 | Alan Beedie | Musical director |
 | Christine Deacon | Accompanist |
-| Pauline Ashton| Chair |
-| Anne Cash | Vice-chair |
+| Anne Cash | Chair |
+| Sandra Scruton | Vice-chair |
 | Freda Brookes | Choir secretary |
 | Jacqui Cook | Treasurer & librarian
 | Harry Ainsworth | Reservations & publicity |
@@ -19,4 +19,3 @@ cover: https://github.com/pbrookes/jekyll-theme-hydure/blob/master/cover.jpg?raw
 | Sandra Scruton | Committee member |
 | David Walker | Honorary founder member |
 | Myra Greenhalgh | Honorary member |
-| Gordon Pincott | Deputy rehearsal conductor |
