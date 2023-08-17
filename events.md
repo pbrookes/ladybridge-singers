@@ -42,6 +42,10 @@ Thicketford Day Centre Thicketford Road Bolton BL2 2LW  1.30pm
 
 St Vincent's RC Church Rutherford Drive Over Hulton  7.30pm 
 
+
+## Mon 11th Dec 2023
+
+Horwich Evangelical Church Wright Street Horwich  1.00pm
 <h2 style="text-align: center;">The Gala Concert</h2>
 The 24th June was this year's Gala Concert at Horwich Parish Church. It was supported again by the Mayor and Mayoress of Horwich, and the Mayor of Bolton, and two representatives from Hearing Dogs for the Deaf. 
   
