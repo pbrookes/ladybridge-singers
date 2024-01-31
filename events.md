@@ -4,48 +4,47 @@ title:  Events
 permalink: /events/
 cover: https://github.com/pbrookes/jekyll-theme-hydure/blob/master/cover.jpg?raw=tru
 ---
-                
-           
-## Tues 21st Mar 2023
-Senior Solutions Winifred Kettle Centre
-Washacre Lane Westhoughton BL5 2NG 2.30pm
+## Mon 4th March 2024
+Horwich Evangelical Church Wright St Horwich 1.00pm
 
-## Mon 27th Mar 2023
-Horwich Evangelical Church Wright st Horwich 1.00pm
-
-## Sat 1st April 2023
-~~The Barlow, Bolton Road Edgworth 2.00pm~~ **Cancelled**
-
-## Fri 21st April 2023
-Thicketford Day Centre, Thicketford Road Bolton BL2 2LW 1.30pm
-
-## Sat 13th May 2023
-St Helens Road Methodist Church TBA
-
-## Sat 24th June 2023
-Gala Concert Horwich Parish Church 7.30pm
-
-## Fri 15th Sept 2023
-St Philips Church Crosby Street Atherton M46 9DF 7.30pm
-
-## Sat 14th Oct 2023
-All Saints Church Stand 19 Church Lane Whitefield M45 7NF 7.30pm
-Joint Concert with Radcliffe Male Voice Choir.
-
-## Fri 27th Oct 2023
-Brazley Community Centre Cedar Ave Horwich BL6 6HT 1.30pm
-
-## Fri 10th Nov 2023
-Thicketford Day Centre Thicketford Road Bolton BL2 2LW  1.30pm
-
-## Fri 24th Nov 2023  
-
-St Vincent's RC Church Rutherford Drive Over Hulton  7.30pm 
+## Thurs 26th Sept 2024
+Age UK Cross St Farnworth Bolton BL4 7AG 2.OOpm
+      
 
 
-## Mon 11th Dec 2023
 
-Horwich Evangelical Church Wright Street Horwich  1.00pm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
 <h2 style="text-align: center;">The Gala Concert</h2>
 The 24th June was this year's Gala Concert at Horwich Parish Church. It was supported again by the Mayor and Mayoress of Horwich, and the Mayor of Bolton, and two representatives from Hearing Dogs for the Deaf. 
   
