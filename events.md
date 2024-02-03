@@ -7,9 +7,18 @@ cover: https://github.com/pbrookes/jekyll-theme-hydure/blob/master/cover.jpg?raw
 ## Mon 4th March 2024
 Horwich Evangelical Church Wright St Horwich 1.00pm
 
+## Fri 24th May 2024
+Harwood Methodist Church Longsight Harwood BL2 3HX 7.30pm
+
+## Sat 29th June 2024
+Gala Concert Horwich Parish Church
+
 ## Thurs 26th Sept 2024
 Age UK Cross St Farnworth Bolton BL4 7AG 2.OOpm
-      
+
+
+
+
 
 
 
