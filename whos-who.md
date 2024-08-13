@@ -7,15 +7,15 @@ cover: https://github.com/pbrookes/jekyll-theme-hydure/blob/master/cover.jpg?raw
 
 | Name | Role |
 |---------|
-| Alan Beedie | Musical director |
+| Alan Beedie | Musical director | Copyright Officer
 | Christine Deacon | Accompanist |
-| Anne Cash | Chair |
-| Sandra Scruton | Vice-chair |
+| Sandra Scruton | Chair |
+| Brian Nicholson | Vice-chair |
 | Freda Brookes | Choir secretary |
 | Jacqui Cook | Treasurer & librarian
-| Harry Ainsworth | Reservations & publicity |
+| Alan Beedie | Reservations & publicity |
 | Janet Constantine | Almoner |
-| David Walker | Archive & copyright officer |
-| Sandra Scruton | Committee member |
+| David Walker | Archive Officer
+| Bernadette Murphy | Committee member |
 | David Walker | Honorary founder member |
 | Myra Greenhalgh | Honorary member |
