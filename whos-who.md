@@ -7,7 +7,7 @@ cover: https://github.com/pbrookes/jekyll-theme-hydure/blob/master/cover.jpg?raw
 
 | Name | Role |
 |---------|
-| Alan Beedie | Musical director | Copyright Officer
+| Alan Beedie | Musical director & copyright officer
 | Christine Deacon | Accompanist |
 | Sandra Scruton | Chair |
 | Brian Nicholson | Vice-chair |
