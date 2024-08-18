@@ -10,7 +10,7 @@ Choir secretary\\
 Smithills, Bolton BL1 5QX
 
 <i class="fas fa-phone"></i> 01204 841431\\
-<i class="fas fa-envelope"></i> [freda.brookes@yahoo.co.uk](mailto:freda.brookes@yahoo.co.uk)
+<i class="fas fa-envelope"></i> [fredabrookes@gmail.com](mailto:fredabrookes@gmail.com)
 
 <hr>
 
