@@ -16,11 +16,11 @@ Harwood Methodist Church Longsight Harwood BL2 3HX 7.30pm
 ## Sat 29th June 2024
 Gala Concert Horwich Parish Church 7.30pm
 
-## Fri 20th Sept 2024
-St Philips Church Crosby St Atherton M46 9DF 7.30pm
-
 ## Thurs 26th Sept 2024
 Age UK Cross St Farnworth Bolton BL4 7AG 2.OOpm
+
+##  Fri 4th Oct 2024
+St Philips Crosby St Atherton M46 9DF 7.30pm
 
 ## Fri 6th Dec 2024
 St Catherine's Church Richmond St Horwich BL6 5QT 7.30pm
