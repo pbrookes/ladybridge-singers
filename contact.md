@@ -14,10 +14,9 @@ Smithills, Bolton BL1 5QX
 
 <hr>
 
-**Harry Ainsworth**\\
-Publicity officer\\
-17 Copperfields\\
-Lostock, Bolton BL6 4HZ
+**Alan Beedie**\\
+25 Langdale Drive\\
+Bury BL9 8HP
 
-<i class="fas fa-phone"></i>  01942 811021\\
-<i class="fas fa-envelope"></i> [harryainsworth123@icloud.com](mailto:harryainsworth123@icloud.com)
+<i class="fas fa-phone"></i>  07946 543173\\
+<i class="fas fa-envelope"></i> [alanbeedie585@gmail.com](mailto:alanbeedie585@gmail.com)
