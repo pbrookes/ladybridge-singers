@@ -10,4 +10,4 @@ The choir rehearses at St Helens Road Methodist Church, Bolton, each Monday even
 
 Membership fees are currently £100 per season.
 
-Membership enquiries should be directed to the choir secretary Freda Brookes on 01204 841431, or [freda.brookes@yahoo.co.uk](mailto:freda.brookes@yahoo.co.uk).
+Membership enquiries should be directed to the choir secretary Freda Brookes on 01204 841431, or [fredabrookes@gmail.com](mailto:fredabrookes@gmail.com).
