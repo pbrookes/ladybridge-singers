@@ -25,3 +25,6 @@ St Philips Crosby St Atherton M46 9DF 7.30pm
 ## Fri 6th Dec 2024
 St Catherine's Church Richmond St Horwich BL6 5QT 7.30pm
 A Joint concert with Rivington and Adlington Brass Band
+
+## Friday 9th May 2025
+Community Connections Methodist Church St Helens Road Bolton 7.30pm
