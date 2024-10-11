@@ -22,6 +22,9 @@ Age UK Cross St Farnworth Bolton BL4 7AG 2.OOpm
 ##  Fri 4th Oct 2024
 St Philips Crosby St Atherton M46 9DF 7.30pm
 
+## Wed 6th Nov 2024
+Abbeydale Care Home 179 Bolton Road Bury BL8 2NR 2pm
+
 ## Fri 6th Dec 2024
 St Catherine's Church Richmond St Horwich BL6 5QT 7.30pm
 A Joint concert with Rivington and Adlington Brass Band
