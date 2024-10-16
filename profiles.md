@@ -10,6 +10,8 @@ cover: https://github.com/pbrookes/jekyll-theme-hydure/blob/master/cover.jpg?raw
 
 He has led a mixed-voice choir since 2017. Additionally he sings with The Brixi Singers and has participated in short conducting courses run by the Royal College of Organists and Sing for Pleasure. He teaches piano and is also an accomplished pianist and organist, holding the ARCO diploma. He was recently appointed a JP.
 
-<br><h2>Christine Deacon – accompanist</h2>
+</br>
+
+## Christine Deacon – accompanist
 
 <img align="left" style="padding-right: 10px;" src="https://www.ladybridgesingers.org.uk/images/deacon.png">Christine is a retired nurse practitioner and has accompanied the Ladybridge Singers for several years. She is a keen amateur pianist and has accompanied soloists at local and charity events. Christine is also the accompanist for Bolton U3A Choir. As well as music, Christine enjoys tennis, country walking and is secretary of the Friends of Bolton Symphony Orchestra.
