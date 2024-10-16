@@ -10,7 +10,7 @@ cover: https://github.com/pbrookes/jekyll-theme-hydure/blob/master/cover.jpg?raw
 
 He has led a mixed-voice choir since 2017. Additionally he sings with The Brixi Singers and has participated in short conducting courses run by the Royal College of Organists and Sing for Pleasure. He teaches piano and is also an accomplished pianist and organist, holding the ARCO diploma. He was recently appointed a JP.
 
-</br>
+<br>
 
 ## Christine Deacon – accompanist
 
