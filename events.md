@@ -29,5 +29,14 @@ Abbeydale Care Home 179 Bolton Road Bury BL8 2NR 2pm
 St Catherine's Church Richmond St Horwich BL6 5QT 7.30pm
 A Joint concert with Rivington and Adlington Brass Band
 
+## Wed 18th Dec 2024
+Lyngate Residential Home 236 Wigan Rd Bolton BL3 5QE 2.00pm
+
+## Fri 28th March 2025
+St Vincent's Over Hulton 7.30pm
+
+## Tues 23rd Sept 2025
+Bolton Parish Church 1.15pm
+
 ## Friday 9th May 2025
 Community Connections Methodist Church St Helens Road Bolton 7.30pm
