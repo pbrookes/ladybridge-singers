@@ -35,8 +35,11 @@ Lyngate Residential Home 236 Wigan Rd Bolton BL3 5QE 2.00pm
 ## Fri 28th March 2025
 St Vincent's Over Hulton 7.30pm
 
+## Fri 9th May 2025
+Community Connections Methodist Church St Helens Rd Bolton 7.30pm
+
 ## Tues 23rd Sept 2025
+Lunchtime Concert
 Bolton Parish Church 1.15pm
 
-## Friday 9th May 2025
-Community Connections Methodist Church St Helens Road Bolton 7.30pm
+
