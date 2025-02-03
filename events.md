@@ -2,7 +2,8 @@
 layout: post
 title:  Events
 permalink: /events/
-cover: https://github.com/pbrookes/jekyll-theme-hydure/blob/master/cover.jpg?raw=tru
+cover: https://github.com/pbrookes/jekyll-theme-hydure/blob/master/cover.jpg?raw=true
+---
 
 ## Mon 24th Feb 2025
 Horwich Evangelical Church Wright St Horwich Bolton 1.00pm
