@@ -15,7 +15,8 @@ Bolton Choirs Festival Victoria Hall Bolton
 St Vincent's Over Hulton 7.30pm
 ## Fri 9th May 2025
 Community Connections Methodist Church St Helens Rd Bolton 7.30pm
-
+## Sat 21st June 2025
+Gala Concert Horwich Parish Church 7.30pm
 ## Tues 23rd Sept 2025
 Lunchtime Concert
 Bolton Parish Church 1.15pm
