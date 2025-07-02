@@ -10,7 +10,7 @@ cover: https://github.com/pbrookes/jekyll-theme-hydure/blob/master/cover.jpg?raw
 | Alan Beedie | Musical director, copyright officer, reservations & publicity |
 | Christine Deacon | Accompanist |
 | Sandra Scruton | Chair |
-| Brian Nicholson | Vice-chair |
+| Kathryn Whitfield | Vice-chair |
 | Freda Brookes | Choir secretary |
 | Jacqui Cook | Treasurer & librarian
 | Janet Constantine | Almoner |
