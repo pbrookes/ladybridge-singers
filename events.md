@@ -22,4 +22,5 @@ Lunchtime Concert
 Bolton Parish Church 1.15pm
 ## Fri 14th Nov 2025
 Abbeyfield Farraday House Cottam St Bury BL8 1QQ 2pm
-
+## Mon 17th Nov 2025
+Horwich Evangelical Church Horwich Bolton !.00pm
