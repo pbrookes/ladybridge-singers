@@ -7,10 +7,8 @@ cover: https://github.com/pbrookes/jekyll-theme-hydure/blob/master/cover.jpg?raw
 
 ## Mon 24th Feb 2025
 Horwich Evangelical Church Wright St Horwich Bolton 1.00pm
-
 ## Sat 22nd March 2025
 Bolton Choirs Festival Victoria Hall Bolton
-
 ## Fri 28th March 2025
 St Vincent's Over Hulton 7.30pm
 ## Fri 9th May 2025
@@ -21,6 +19,10 @@ Gala Concert Horwich Parish Church 7.30pm
 Lunchtime Concert Bolton Parish Church 1-15pm
 ## Fri 24th October 2025
 Harwood Methodist Church
+## Fri 15th May 2026
+Connections Community Methodist Church 7.30pm
+
+
 Concert with Farnworth and Walkden Band 7.30pm
 ## Fri 14th Nov 2025
 Abbeyfield Farraday House Cottam St Bury BL8 1QQ 2pm
