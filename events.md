@@ -26,7 +26,10 @@ Abbeyfield Farraday House Cottam St Bury BL8 1QQ 2pm
 Horwich Evangelical Church Horwich Bolton !.00pm
 ## Thurs 18th Dec 2025
 Age UK Cross St Farnworth 2.00pm
+## Fri 20th March 2026
+Bolton Road Methodist Church Bury 7.30pm
 ## Fri 15th May 2026
 Connections Community Methodist Church 7.30pm
-
+## Sat 27th June 2026
+Gala Concert Horwich Parish Church 7.30pm
 
