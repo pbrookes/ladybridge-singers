@@ -3,10 +3,41 @@ layout: post
 title:  Welcome
 cover: https://github.com/pbrookes/jekyll-theme-hydure/blob/master/cover.jpg?raw=true
 ---
-Ladybridge Singers have been entertaining in the Bolton and south-east Lancashire area for over 40 years. In 1972, at a new housing estate in Bolton, an enthusiastic group of neighbours met in each other's homes to sing choral music, and we developed from there.
+<h1 align="center">Ladybridge Singers: Your voice belongs here!</h1>
 
-Now a well-known group of some 40 mixed voices, we have a wide-ranging music repertoire. Led by our experienced and talented musical director, Alan Beedie, we perform everything from sacred and classical music, popular songs, songs from the shows, and music hall.
+Do you love music? Enjoy singing in the shower, in the car, or with friends? Why not take the next step and join Ladybridge Singers, a friendly and welcoming choir in Bolton!
 
-We provide varied and enjoyable entertainment for both lovers of choral music, and those who prefer more popular items. Our fees are moderate and enable good fundraising opportunities for many organisations. In addition to concerts, we can provide after-dinner entertainment, attend weddings and will consider any other type of engagement.
+## Who we are
 
-We regularly welcome new singers who wish to join us.
+Ladybridge Singers is a lively, mixed choir bringing people together through music.
+
+Whether you're experienced or new, we enjoy singing in a relaxed, supportive environment.
+
+## What we sing
+
+From classic choral pieces to modern favourites, musical theatre, and pop arrangements – there’s something for everyone!
+
+## Who can join?
+
+* All voice types welcome (soprano, alto, tenor, bass)
+* No auditions required
+* No need to read music – just bring enthusiasm!
+
+## When and where?
+
+Monday evenings at 7:15 pm.
+
+Connections Community Methodist Church, St Helens Road, Bolton.
+
+## Why join us?
+
+* Boost your confidence and wellbeing
+* Perform at local concerts and events
+* Be part of a warm, social community
+* Have fun while making beautiful music!
+
+Come along and try a session for free!
+
+We’d love to meet you – bring a friend and discover the joy of singing together.
+<hr>
+<p align="center"><i>Ladybridge Singers – where every voice counts!</i></p>
