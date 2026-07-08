@@ -1,10 +1,8 @@
 ---
 layout: post
-title:  Welcome
+title:  Ladybridge Singers: Your voice belongs here!
 cover: https://github.com/pbrookes/jekyll-theme-hydure/blob/master/cover.jpg?raw=true
 ---
-<h1 align="center">Ladybridge Singers: Your voice belongs here!</h1>
-
 Do you love music? Enjoy singing in the shower, in the car, or with friends? Why not take the next step and join Ladybridge Singers, a friendly and welcoming choir in Bolton!
 
 ## Who we are
