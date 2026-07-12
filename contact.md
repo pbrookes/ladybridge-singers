@@ -10,7 +10,7 @@ Choir secretary\\
 Horwich, Bolton BL6 4NG
 
 <i class="fas fa-phone"></i> 01204 696443\\
-<i class="fas fa-envelope"></i> [fredabrookes@gmail.com](mailto:fredabrookes@gmail.com)
+<i class="fas fa-envelope"></i> [penguinmurphy@yahoo.co.uk](mailto:penguinmurphy@yahoo.co.uk)
 
 <hr>
 
