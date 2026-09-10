@@ -9,7 +9,7 @@ Choir secretary\\
 2 Wimborne Close \\
 Horwich, Bolton BL6 4NG
 
-<i class="fas fa-phone"></i> 01204 696443\\
+<i class="fas fa-phone"></i> 07731 653709\\
 <i class="fas fa-envelope"></i> [penguinmurphyx@yahoo.co.uk
 
 <hr>
