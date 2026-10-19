@@ -10,7 +10,7 @@ Choir secretary\\
 Horwich, Bolton BL6 4NG
 
 <i class="fas fa-phone"></i> 07731 653709\\
-<i class="fas fa-envelope"></i> [penguinmurphyx@yahoo.co.uk
+<i class="fas fa-envelope"></i> [penguinmurphyx@yahoo.co.uk](mailto:penguinmurphyx@yahoo.co.uk)
 
 <hr>
 
