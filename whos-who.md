@@ -7,7 +7,7 @@ cover: https://github.com/pbrookes/jekyll-theme-hydure/blob/master/cover.jpg?raw
 
 | Name | Role |
 |---------|
-| Alan Beedie | Musical director, copyright officer, reservations & publicity |Archive Officer
+| Alan Beedie | Musical director, copyright officer, reservations & publicity, archive officer |
 | Christine Deacon | Accompanist |
 | Kathryn Whitfield | Chair |
 | Bernadette Murphy | Vice-chair |
