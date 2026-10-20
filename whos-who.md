@@ -15,6 +15,6 @@ cover: https://github.com/pbrookes/jekyll-theme-hydure/blob/master/cover.jpg?raw
 | Jacqui Cook | Treasurer & librarian
 | Janet Constantine | Almoner |
 | Sandra Scruton | Committee member |
-| Freda Brookes | Website Officer |
+| Freda Brookes | Website officer |
 | David Walker | Honorary founder member |
 | Myra Greenhalgh | Honorary member |
