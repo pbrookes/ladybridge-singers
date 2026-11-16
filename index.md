@@ -5,6 +5,8 @@ cover: https://github.com/pbrookes/jekyll-theme-hydure/blob/master/cover.jpg?raw
 ---
 Do you love music? Enjoy singing in the shower, in the car, or with friends? Why not take the next step and join Ladybridge Singers, a friendly and welcoming choir in Bolton!
 
+<img src="/images/young-lives.png" width="400px">
+
 ## Who we are
 
 Ladybridge Singers is a lively, mixed choir bringing people together through music.
