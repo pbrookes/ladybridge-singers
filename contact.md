@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Contact Us
+title:  Contact us
 permalink: /contact/
 cover: https://github.com/pbrookes/jekyll-theme-hydure/blob/master/cover.jpg?raw=true
 ---
