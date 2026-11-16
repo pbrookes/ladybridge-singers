@@ -10,4 +10,4 @@ The choir rehearses at St Helens Road Methodist Church, Bolton, each Monday even
 
 Membership fees are currently £100 per season.
 
-Membership enquiries should be directed to the choir secretary Bernadette Murphy, penguinmurphyx@yahoo.co.uk.
+Membership enquiries should be directed to the choir secretary, [Bernadette Murphy](mailto:penguinmurphyx@yahoo.co.uk).
